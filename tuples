@@ -1,0 +1,12 @@
+my_tup = ()
+print(my_tup)
+
+my_tup = (1,"hello",5.5)
+print(my_tup)
+
+my_tup = (1,2,3,[4,42,12],"pomegranate")
+print(my_tup)
+
+my_tup = ("p,e,r,m,i,t")
+print(my_tup[0])
+print(my_tup[-1])
