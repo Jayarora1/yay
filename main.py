@@ -1,0 +1,6 @@
+file = open('data.txt','w')
+file.write("i am jay ")
+file.close()
+file = open('data.txt','a')
+file.write("i am jay arora")
+file.close()
